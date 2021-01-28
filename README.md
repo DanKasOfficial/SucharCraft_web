@@ -16,6 +16,14 @@ Web for SucharCraft minecraft server, created by: [MitasVit](https://github.com/
 - [Vlastním Git účet](https://github.com/MitasVit/SucharCraft_web/issues/)
 - [Nevlastním Git účet](https://forms.office.com/Pages/ResponsePage.aspx?id=wCYuEb6RlkazjOrcQsYQIZ1obVSP6sdIrzZvMb6t-p9UQlRBSFBZTkM2Rk44UzY0VFlWNlQzQ0wxQy4u)
 
+### SUGEST IMPROVEMENTS:
+
+- [Have got a git account](https://github.com/MitasVit/SucharCraft_web/pulls/)
+
+### NAVRHNOUT VYLEPŠENÍ:
+
+- [Vlastním Git účet](https://github.com/MitasVit/SucharCraft_web/pulls/)
+
 ### TODO/CO UDĚLAT:
 
 - OG protocol
